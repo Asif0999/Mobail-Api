@@ -1,0 +1,27 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: whitesmoke;
+}
+.detail-btn{
+    padding: 5px 20px;
+    
+    border-radius: 10px;
+    
+}
+
+.result-show{
+    /* text-align: center; */
+    font-size: 30px;
+    color: rgb(17, 185, 17);
+    margin-left: 30%;
+}
+
+.color{
+    color: orangered;
+    font-size: 18px;
+}
+
+.name-color{
+    color: darkblue;
+    text-align: center;
+}
